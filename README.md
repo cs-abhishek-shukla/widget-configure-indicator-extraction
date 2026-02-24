@@ -30,4 +30,4 @@ Optimize your threat management with the **Indicator Extraction Configuration** 
 
 - **User-Friendly Wizard**: A step-by-step wizard guides you through the configuration process, making it simple and intuitive.  
 
-Head over to the SOAR Framework solution pack documentation to leverage the **Indicator Extraction Configuration** wizard!
+Head over to the [**Indicator Extraction Configuration**](https://github.com/fortinet-fortisoar/solution-pack-soar-framework/blob/develop/docs/iec/indicator-extraction-wizard.md) wizard under SOAR Framework solution pack documentation.
